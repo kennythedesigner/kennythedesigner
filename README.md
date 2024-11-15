@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kennythedesigner
 - 👀 I’m interested in Front end dev,and UX engineeering
-- 🌱 I’m currently learning Web Dev
+- 🌱 I’m currently learning Full Stack through the Odin Project. 
 - 💞️ I’m looking to collaborate on UX projects
 - 📫 How to reach me kennedicosma22@outlook.com
 - 😄 Pronouns: she/they
