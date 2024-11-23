@@ -18,7 +18,7 @@
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-[![roadmap.sh](https://roadmap.sh/card/tall/67418c395434bf319a61d08c?variant=dark&roadmaps=frontend%2Cux-design%2Cgit-github%2Cprompt-engineering)](https://roadmap.sh)
+
 
 
 <!---
