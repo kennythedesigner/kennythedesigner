@@ -1,7 +1,7 @@
 Hi 👋 My name is Kennedi Cosma
 ==============================
 
-UX Engineer and Graphic Designer
+UX Engineer and AI Product Designer
 --------------------------------
 
 Hey there! My name is Kennedi (but I also go by Ken). I am a novice web developer and have been within the UX space for about 3 years now. I enjoy front end development, designing, and watching DC Animated shows, Anime, and the NBA.
